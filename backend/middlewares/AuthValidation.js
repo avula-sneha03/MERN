@@ -7,5 +7,4 @@ const AuthValidation = (req, res, next) => {
   }
   next()
 }
-
 module.exports = AuthValidation
